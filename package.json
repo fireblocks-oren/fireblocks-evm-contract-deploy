@@ -1,0 +1,19 @@
+{
+  "name": "fireblocks-evm-contract-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.4.0",
+    "fireblocks-sdk": "^1.12.0",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
